@@ -1,0 +1,9 @@
+{
+  "projects": [
+    "data-platform/meta",
+    "data-platform/Flamingo",
+    "data-platform/ibis",
+    "data-platform/load-testing",
+    "root/pelico_front"
+  ]
+}
